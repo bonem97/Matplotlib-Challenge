@@ -1,0 +1,4 @@
+----------FINDINGS----------
+1. Capomulin produces a very pronounced reduction of tumor size in the lab rats. Ramicane has a near identical effect; the final distibutions of tumor volumes for Capomulin and Ramicane are almost identical.
+2. Capomulin and Ramicane (along with Ceftamin and Infubinol for that matter) produce data sets with no outliers regarding the final distribution of tumor volumes. from this we can infer that the effects of these regimens is likely to be very standardized and have very predictable effects.
+3. It is plain to see that there is a strong and positive but not perfect correlation between the average tumor size and the weight of a mouse treated with Capomulin. From this it can be inferred that capomulin has no disproportionate effect on mice of higher or lower weights. 
